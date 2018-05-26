@@ -1,2 +1,2 @@
 # yanglusimis.github.io
-Lusi Yang's Homepage
+Lusi Yang's Homepage at GitHub
