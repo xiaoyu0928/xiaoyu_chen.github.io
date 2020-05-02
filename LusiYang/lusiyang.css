@@ -2,7 +2,7 @@ HTML {
 	FONT-SIZE: 100%; BACKGROUND: #fff; -MS-TEXT-SIZE-ADJUST: 100%; -webkit-text-size-adjust: 100%
 }
 BODY {
-	FONT-SIZE: 15px;
+	FONT-SIZE: 16px;
 	COLOR: #222;
 	MARGIN: 0px;
 	font-family: "Book Antiqua";
@@ -132,4 +132,17 @@ A.thumbnail:hover {
 }
 .inbox {
 	PADDING-BOTTOM: 7px; MARGIN-TOP: 5px
+}
+li {
+	FONT-SIZE: 16px;
+}
+li.Gap {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+strong {
+	FONT-SIZE: 16px;
+}
+p {
+	FONT-SIZE: 16px;
 }
